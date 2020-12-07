@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+    <string name="ketik_disini">Ketik Disini</string>
+    <string name="teks_disini_akan_berubah">Teks Disini Akan Berubah</string>
+    <string name="simpan">Simpan</string>
+    <string name="ketik_nama_anda_disini">Ketik Nama Anda Disini</string>
+    <string name="masukkan_nama_anda">Masukkan Nama Anda</string>
+    <string name="masukkan_tahun_lahir_anda">Masukkan Tahun Lahir Anda</string>
+    <string name="hitung_usia">Hitung Usia</string>
+    <string name="usia_anda_adalah">Usia Anda Adalah</string>
+    <string name="masukkan_npm_anda">Masukkan NPM Anda</string>
+    <string name="konfirmasi">Konfirmasi</string>
+</resources>
